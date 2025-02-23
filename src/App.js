@@ -174,7 +174,7 @@ function App() {
               )}
               {i === 1 && guess.data.dominant_loved_gift_area && (
                 <img 
-                  src={`/gift/${guess.data.dominant_loved_gift_area.toLowerCase()}.png`} 
+                  src={`/gift/${guess.data.dominant_loved_gift_area}.png`} 
                   alt={guess.data.dominant_loved_gift_area}
                 />
               )}
