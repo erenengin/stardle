@@ -113,7 +113,8 @@ function App() {
     else feedback.push('gray');
 
     if (charData.marriageable === dailyCharData.marriageable) feedback.push('green');
-    else if (charData.marriageable && dailyCharData.marriageable) feedback.push('red');
+    else if (charData.marriageable !== dailyCharData.marriageable) feedback.push('red');
+    else feedback.push('gray');
 
     if (charData.personality_trait === dailyCharData.personality_trait) feedback.push('green');
     else if (charData.personality_trait && dailyCharData.personality_trait) feedback.push('yellow');
