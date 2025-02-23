@@ -1,0 +1,268 @@
+{
+    "characters": [
+      {
+        "name": "Abigail",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Gems",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Alex",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Elliott",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Seafood",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Emily",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Gems",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Haley",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Harvey",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Beverages",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Leah",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Maru",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Gems",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Penny",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Female",
+        "marriageable": true,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Sam",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Sebastian",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Monster Loot",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Shane",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Alcohol",
+        "gender": "Male",
+        "marriageable": true,
+        "personality_trait": "Grumpy"
+      },
+      {
+        "name": "Caroline",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Vegetables",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Clint",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Gems",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Demetrius",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Fruits",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Dwarf",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Minerals",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Evelyn",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Crops",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "George",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Crops",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Grumpy"
+      },
+      {
+        "name": "Gus",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Seafood",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Jas",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Jodi",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Kent",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Leo",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Lewis",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Linus",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Marnie",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Cooked Dishes",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Pam",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Alcohol",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Grumpy"
+      },
+      {
+        "name": "Pierre",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Robin",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Fruits",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Sandy",
+        "birth_month": "Fall",
+        "dominant_loved_gift_area": "Foraged Items",
+        "gender": "Female",
+        "marriageable": false,
+        "personality_trait": "Kind"
+      },
+      {
+        "name": "Vincent",
+        "birth_month": "Spring",
+        "dominant_loved_gift_area": "Beverages",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Outgoing"
+      },
+      {
+        "name": "Willy",
+        "birth_month": "Summer",
+        "dominant_loved_gift_area": "Seafood",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      },
+      {
+        "name": "Wizard",
+        "birth_month": "Winter",
+        "dominant_loved_gift_area": "Monster Loot",
+        "gender": "Male",
+        "marriageable": false,
+        "personality_trait": "Quiet"
+      }
+    ]
+  }
